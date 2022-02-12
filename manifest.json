@@ -2,7 +2,7 @@
     "name": "Five Tribes Calculator",
     "prefer_related_applications": false,
     "short_name": "FiveTribes",
-    "start_url": "FiveTribesCalculator/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#049BDA",
     "theme_color": "#049BDA",
